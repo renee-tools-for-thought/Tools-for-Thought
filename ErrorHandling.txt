@@ -1,0 +1,6 @@
+# ACME Error Handling
+
+This is how we handle errors:
+
+1) Do not make errors
+
